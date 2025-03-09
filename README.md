@@ -2,7 +2,7 @@
  * @Author: 齐大胜 782395122@qq.com
  * @Date: 2025-01-19 04:52:52
  * @LastEditors: 齐大胜 782395122@qq.com
- * @LastEditTime: 2025-02-15 14:28:44
+ * @LastEditTime: 2025-02-16 13:21:06
  * @FilePath: /ds-blog/README.md
  * @Description: 
  * 
@@ -19,7 +19,7 @@
 
 ## 👋 介绍
 
-在这里我会分享各类技术栈所遇到问题与解决方案，带你了解最新的技术栈以及实际开发中如何应用，并希望我的开发经历对你有所启发。
+我会在这里分享各类技术栈学习的笔记与开发过程中所遇到问题与解决方案，带你了解最新的技术栈以及最佳实践，希望我的学习与开发经历对你有所启发和帮助。
 
 如果你想要搭建一个类似的站点，可直接 [Fork](https://github.com/qidasheng369/ds-blog/fork) 本仓库使用，或者通过 [StackBlitz](https://stackblitz.com/github/qidasheng369/ds-blog) 在线运行本项目，通过 [Vercel](https://vercel.com/new/clone?repository-url=https://github.com/qidasheng369/ds-blog/tree/main&project-name=blog&repo-name=blog) 一键部署。
 

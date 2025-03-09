@@ -131,8 +131,8 @@ const config: Config = {
         `,
     },
     algolia: {
-      appId: 'X8NILR1JGQ',
-      apiKey: 'c1e275c2e72c8a9cb242921e6f4a32fe',
+      appId: 'X8NILR1JGQ', // Application ID
+      apiKey: 'c1e275c2e72c8a9cb242921e6f4a32fe', // YOUR_SEARCH_API_KEY
       indexName: 'dasheng',
     },
     prism: {

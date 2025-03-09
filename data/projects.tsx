@@ -2,19 +2,10 @@ export const projects: Project[] = [
   {
     title: '大胜的小站',
     description: '🦖 基于 Docusaurus 静态网站生成器实现个人博客',
-    preview: '/img/project/blog.jpg',
-    website: 'https://kuizuo.cn',
+    preview: '/img/project/blog.png',
+    website: 'https://ds-blog-prod.vercel.app',
     source: 'https://github.com/daShengeng369/blog',
     tags: ['opensource', 'design', 'favorite'],
-    type: 'web',
-  },
-  {
-    title: 'Youni（校园社交平台）',
-    description: '基于 React Native + NestJs 实现的一个校园社交平台应用',
-    preview: '/img/project/youni.png',
-    website: 'https://youni.vercel.app',
-    source: 'https://github.com/kuizuo/youni',
-    tags: ['large', 'product'],
     type: 'web',
   },
   {

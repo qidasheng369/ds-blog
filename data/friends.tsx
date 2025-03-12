@@ -3,7 +3,7 @@ export const Friends: Friend[] = [
     title: '愧怍',
     description: '道阻且长，行则将至',
     website: 'https://kuizuo.cn',
-    avatar: 'https://kuizuo.cn/img/logo.jpeg',
+    avatar: 'https://kuizuo.cn/img/logo.webp',
   },
   {
     title: 'Pincman',

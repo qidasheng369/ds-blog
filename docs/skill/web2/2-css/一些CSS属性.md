@@ -1,3 +1,13 @@
+<!--
+ * @Author: 齐大胜 782395122@qq.com
+ * @Date: 2025-02-12 16:01:06
+ * @LastEditors: 齐大胜 782395122@qq.com
+ * @LastEditTime: 2025-03-10 17:13:00
+ * @FilePath: /ds-blog/docs/skill/web/2-css/一些CSS属性.md
+ * @Description: 
+ * 
+ * Copyright (c) 2025 by 齐大胜 email: 782395122@qq.com, All Rights Reserved. 
+-->
 ---
 id: css-properties
 slug: /css-properties
@@ -8,7 +18,7 @@ tags: [css]
 keywords: [css]
 ---
 
-最近在写一些 CSS 样例，可以在 [前端示例代码库](https://example.dasheng.cn/) 中查看，后续也会把一些灵感和设计放在这上面，不过这里主要介绍我之前没怎么用到过的一些 CSS 属性（奇技淫巧），通过这些特性能非常方便的实现一些需求，不会做过多使用介绍，具体可查看 [MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS) 与 [示例源代码](https://github.com/qidasheng369/example)。
+最近在写一些 CSS 样例，可以在 [前端示例代码库](https://example.kuizuo.cn/) 中查看，后续也会把一些灵感和设计放在这上面，不过这里主要介绍我之前没怎么用到过的一些 CSS 属性（奇技淫巧），通过这些特性能非常方便的实现一些需求，不会做过多使用介绍，具体可查看 [MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS) 与 [示例源代码](https://github.com/qidasheng369/example)。
 
 可在这个网站 [Can I use](https://caniuse.com/) 查看 CSS 兼容情况。
 

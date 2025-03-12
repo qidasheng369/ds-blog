@@ -1,13 +1,3 @@
-<!--
- * @Author: 齐大胜 782395122@qq.com
- * @Date: 2025-02-12 16:01:06
- * @LastEditors: 齐大胜 782395122@qq.com
- * @LastEditTime: 2025-02-16 13:07:29
- * @FilePath: /ds-blog/blog/program/第二个博客搭建之Docusaurus.md
- * @Description: 
- * 
- * Copyright (c) 2025 by 齐大胜 email: 782395122@qq.com, All Rights Reserved. 
--->
 ---
 slug: second-blog-is-docusaurus
 title: 第二个博客搭建之Docusaurus

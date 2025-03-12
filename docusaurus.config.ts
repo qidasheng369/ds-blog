@@ -224,7 +224,7 @@ const config: Config = {
       {
         path: 'blog',
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
-          `https://github.com/daShengeng369/blog/edit/main/${blogDirPath}/${blogPath}`,
+          `https://github.com/daShengeng369/ds-blog/edit/main/${blogDirPath}/${blogPath}`,
         editLocalizedFiles: false,
         blogDescription: '代码人生：编织技术与生活的博客之旅',
         blogSidebarCount: 10,
@@ -263,13 +263,13 @@ const config: Config = {
                 innerHTML: `
     (${function () {
       console.log(
-        `%c Kz Blog %c https://github.com/daShengeng369/blog`,
+        `%c Ds Blog %c https://github.com/daShengeng369/ds-blog`,
         'color: #fff; margin: 1em 0; padding: 5px 0; background: #12affa;',
         'margin: 1em 0; padding: 5px 0; background: #efefef;',
       )
 
       const motto = `
-This Webisite Powered By Kz Blog.
+This Webisite Powered By Ds Blog.
 Written by Docusaurus, Coding with Love.
 --------
 Love what you do and do what you love.
